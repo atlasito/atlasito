@@ -20,7 +20,7 @@
 ---
 
 #### IDE
-- ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=visual-studio-code)
+- ![ide](https://img.shields.io/badge/-py_charm-00FFFF?style=flat-square&logo=pycharm)
 
 ---
 

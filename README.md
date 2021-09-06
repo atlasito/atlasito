@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://www.buymeacoffee.com/charon%22%3EBuy me a coffee :coffee:</a>
+    <h3>Welcome to Atlasito github!</h3>
 </p>
 
 <p align="center">
-    <img alt="ya" src="https://i.imgur.com/MShy42H.gif%22/%3E"/>
+    <img alt="ya" src="https://imgur.com/gerlkMX"/>
 </p>
 
 <p align="center">

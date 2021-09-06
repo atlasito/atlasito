@@ -14,9 +14,8 @@
 
 #### Languages
 - ![python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python)
-- ![c](https://img.shields.io/badge/-C_Pogramming-F50069?style=flat-square&logo=c)
-
-
+- ![python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python)
+- ![c](https://img.shields.io/badge/-C-00FFFF?style=flat-square&logo=c)
 ---
 
 #### IDE

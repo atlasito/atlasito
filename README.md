@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img alt="ya" src="https://imgur.com/gerlkMX"/>
+    <img alt="ya" src="https://i.imgur.com/gerlkMX.mp4"/>
 </p>
 
 <p align="center">

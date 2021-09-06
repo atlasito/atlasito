@@ -1,5 +1,5 @@
 <p align="center">
-    <h3><a href="#">Welcome to Atlasito</a></h3>
+    Welcome to <b>Atlasito</b> github!
 </p>
 
 

@@ -13,9 +13,9 @@
 ---
 
 #### Languages
-- ![python](https://img.shields.io/badge/-Python-F50069?style=flat-square&logo=python)
-- ![html](https://img.shields.io/badge/-HTML-F50069?style=flat-square&logo=HTML5)
-- ![css](https://img.shields.io/badge/-CSS-F50069?style=flat-square&logo=CSS3)
+- ![python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python)
+- ![html](https://img.shields.io/badge/-HTML-00FFFF?style=flat-square&logo=HTML5)
+- ![css](https://img.shields.io/badge/-CSS-00FFFF?style=flat-square&logo=CSS3)
 
 ---
 

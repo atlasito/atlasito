@@ -3,17 +3,16 @@
 </p>
 
 <p align="center">
-    <img alt="ya" src="https://i.imgur.com/MShy42H.gif%22/%3E
+    <img alt="ya" src="https://i.imgur.com/MShy42H.gif%22/%3E"/>
 </p>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/%3E
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atlasito&show_icons=true&theme=cyan&include_all_commits=true&count_private=true%22/%3E"/>
 </p>
 
 ---
 
 #### Languages
-- ![python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python)
 - ![python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python)
 - ![c](https://img.shields.io/badge/-C-00FFFF?style=flat-square&logo=c)
 ---

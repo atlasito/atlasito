@@ -14,7 +14,7 @@
 
 #### Languages
 - ![python](https://img.shields.io/badge/-Python-00FFF?style=flat-square&logo=python)
-- ![c](https://img.shields.io/badge/-C_Pogramming-F50069?style=flat-square&logo=c)
+- ![C](https://img.shields.io/badge/-C_Pogramming-F50069?style=flat-square&logo=c)
 
 
 ---
